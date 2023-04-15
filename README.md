@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm currently focusing on lowering latency in real-time chat apps, as well as time-series analysis of the global market, including important indexes such as the NASDAQ100, SP500, and Dow Jones, as well as FX, cryptocurrencies, ETFs, and Mutual Funds.
-
+* 📖 Pursuing Bachelors in Software Engineering @ [National University of Sciences and Technology](https://seecs.nust.edu.pk/)
+* 🎓 Currently researching on **Time Series Analysis and Forecasting** for Global Stock Market. @ [Sarmaaya.pk](https://sarmaaya.pk/)
+* 🖥️ Working on reducing latency in real-time chat apps with high user base.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdurafey.farooqi/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abdurafeyf/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurafeyf/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abdurafeyf) 
