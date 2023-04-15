@@ -12,14 +12,6 @@ I'm currently focusing on lowering latency in real-time chat apps, as well as t
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdurafeyf&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurafeyf&theme=city_light&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/abdurafeyf)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdurafeyf&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abdurafeyf&icon=0&color=0)](https://visitcount.itsvg.in)
