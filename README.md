@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building a scalable open-source cloud architecture (mainly SaaS and BaaS)<br>💻 Working as a Software and Data Engineer at a FinTech Company, Sarmaaya Financials.<br>🌱 Studying BE Software Engineering at SEECS, NUST<br>
+🔭 Currently building a scalable open-source cloud architecture (mainly for SaaS and BaaS)<br>💻 Working as a Software and Data Engineer at a FinTech Company, Sarmaaya Financials.<br>🌱 Studying BE Software Engineering at SEECS, NUST<br>
 
 
 ## 🌐 Socials:
